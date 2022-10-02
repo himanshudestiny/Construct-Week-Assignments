@@ -610,5 +610,87 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn React",
+      "status": "Not Completed"
+    },
+    {
+      "id": 2,
+      "title": "Learn Redux",
+      "status": "Not Completed"
+    },
+    {
+      "id": 3,
+      "title": "Learn HTML",
+      "status": "Not Completed"
+    },
+    {
+      "id": 4,
+      "title": "Learn CSS",
+      "status": "Not Completed"
+    },
+    {
+      "id": 5,
+      "title": "Learn JavaScript",
+      "status": "Not Completed"
+    },
+    {
+      "id": 6,
+      "title": "Learn MERN",
+      "status": "Not Completed"
+    },
+    {
+      "id": 7,
+      "title": "Learn JAVA",
+      "status": "Not Completed"
+    },
+    {
+      "id": 8,
+      "title": "Learn Python",
+      "status": "Not Completed"
+    },
+    {
+      "id": 9,
+      "title": "Learn C++",
+      "status": "Not Completed"
+    },
+    {
+      "id": 10,
+      "title": "Learn Node JS",
+      "status": "Not Completed"
+    },
+    {
+      "id": 11,
+      "title": "Eat",
+      "status": "Not Completed"
+    },
+    {
+      "id": 12,
+      "title": "Sleep",
+      "status": "Not Completed"
+    },
+    {
+      "id": 14,
+      "title": "Party",
+      "status": "Not Completed"
+    },
+    {
+      "id": 15,
+      "title": "Repeat",
+      "status": "Not Completed"
+    },
+    {
+      "title": "Dream",
+      "status": "Not Completed",
+      "id": 16
+    },
+    {
+      "title": "Drink",
+      "status": "Completed",
+      "id": 17
+    }
+  ]
 }
